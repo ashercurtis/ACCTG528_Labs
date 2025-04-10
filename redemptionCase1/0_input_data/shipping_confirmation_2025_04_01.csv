@@ -1,0 +1,2 @@
+OrderID,ShippingDate,ShippingMethod,TrackingNumber,Carrier
+ETSY-1000,2025-04-01,Standard,TRACK123456,USPS

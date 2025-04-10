@@ -1,0 +1,4 @@
+OrderID,OrderDate,CustomerName,CustomerEmail,ShippingAddress,ProductName,SKU,Quantity,PriceEach,ShippingMethod,TrackingRequired,Status,EtsyFee,ShippingFee,TotalPaid,NetPayout
+ETSY-1001,4/10/2025,Kimberly Yoder,darthyoder44@yahoo.com,"1257 35th Ave NE Apt. 006, Seattle, WA 98115",Lavender Oil,PO1001,1,16.39,Standard,Yes,Paid,0.9834,3,19.39,18.41
+ETSY-1002,4/10/2025,Lynn Walters,Lynni3W@gmail.com,"1521 2nd Avenue Unit 2205, Seattle, WA 98101",Tea Tree Oil,PO1002,3,10.29,Expedited,No,Paid,1.8522,5,35.87,34.02
+ETSY-1003,4/10/2025,David Powell,david_powell_1965@hotmail.com,"923 Maplewood Drive Edmonds, WA 98020",Moss Oil,PO1003,3,22.31,Expedited,Yes,Paid,4.0158,5,71.93,67.9142
