@@ -1,0 +1,3 @@
+*.xaml merge=ours
+/legacy_cases/ merge=ours
+/solutions/ merge=theirs
