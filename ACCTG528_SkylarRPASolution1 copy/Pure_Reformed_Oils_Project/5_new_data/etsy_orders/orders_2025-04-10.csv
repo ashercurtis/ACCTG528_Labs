@@ -1,0 +1,4 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250019,2025-04-10,Sofia Lee,sofia.lee@example.com,"2901 May Rue, San Diego, California, 39502, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-12
+O20250020,2025-04-10,Chloe Lopez,chloe.lopez@example.com,"964 Ricky Rest, Seattle, Washington, 93761, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-11
+O20250021,2025-04-10,Emily Brown,emily.brown@example.com,"381 William Causeway Apt. 950, Seattle, Washington, 19702, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),1,12.99,12.99,Paid,2025-04-12
