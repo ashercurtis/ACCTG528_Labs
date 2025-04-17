@@ -1,0 +1,4 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250006,2025-04-03,Chloe Khan,chloe.khan@example.com,"03422 Murray Islands Apt. 427, Seattle, Washington, 24628, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-05
+O20250007,2025-04-03,Emily Brown,emily.brown@example.com,"381 William Causeway Apt. 950, Seattle, Washington, 19702, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-04
+O20250008,2025-04-03,Hassan Davis,hassan.davis@example.com,"0955 Espinoza Vista Apt. 969, Bellevue, Washington, 06172, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-04

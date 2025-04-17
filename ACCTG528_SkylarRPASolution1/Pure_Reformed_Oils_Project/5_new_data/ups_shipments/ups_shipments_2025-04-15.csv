@@ -1,0 +1,7 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z190053696033998016,O20250055,2025-04-15,UPS,Shipped,2025-04-18,Grace Garcia,"728 Nathan Lane, Seattle, Washington, 73060, USA"
+1Z467761907849278828,O20250057,2025-04-15,UPS,Shipped,2025-04-17,Mei Davis,"8794 Martinez Walk Apt. 964, Seattle, Washington, 59229, USA"
+1Z169695893257726890,O20250060,2025-04-15,UPS,Shipped,2025-04-17,Tariq Kim,"9353 Martin Harbors, Seattle, Washington, 01603, USA"
+1Z966449279244588994,O20250061,2025-04-15,UPS,Shipped,2025-04-19,Daniel Nguyen,"8345 Ashley Land, Seattle, Washington, 68005, USA"
+1Z734237416355234265,O20250064,2025-04-15,UPS,Shipped,2025-04-19,Raj Wilson,"525 Crawford Expressway, Sacramento, California, 21209, USA"
+1Z858887262438503211,O20250065,2025-04-15,UPS,Shipped,2025-04-19,Hassan Kim,"263 Richard Fields Suite 871, Seattle, Washington, 65184, USA"

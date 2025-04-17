@@ -1,0 +1,10 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z384498077249945972,O20250019,2025-04-11,UPS,Shipped,2025-04-13,Mei Patel,"2375 James Crescent, Seattle, Washington, 67843, USA"
+1Z428575015526281705,O20250024,2025-04-11,UPS,Shipped,2025-04-15,Chloe Smith,"68852 Sean Lakes, San Diego, California, 30922, USA"
+1Z383088190030733148,O20250027,2025-04-11,UPS,Shipped,2025-04-15,Tariq Lee,"71389 Taylor Island Apt. 787, Seattle, Washington, 55947, USA"
+1Z770692270964081374,O20250029,2025-04-11,UPS,Shipped,2025-04-14,Mei Khan,"8675 Ashley Ways, Seattle, Washington, 73165, USA"
+1Z569494427920936454,O20250031,2025-04-11,UPS,Shipped,2025-04-13,Hassan Martinez,"39060 Dana Divide, Seattle, Washington, 19752, USA"
+1Z465149688329262950,O20250033,2025-04-11,UPS,Shipped,2025-04-14,Tariq Ali,"9920 Jeanne Views Suite 821, Seattle, Washington, 83206, USA"
+1Z506446831054854768,O20250035,2025-04-11,UPS,Shipped,2025-04-15,Chloe Moore,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA"
+1Z907304080551606294,O20250036,2025-04-11,UPS,Shipped,2025-04-15,Mateo Smith,"123 White Passage Suite 267, Seattle, Washington, 19845, USA"
+1Z114577734562711901,O20250037,2025-04-11,UPS,Shipped,2025-04-14,Noah Moore,"811 Jose Ville, Tacoma, Washington, 82123, USA"

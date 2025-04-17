@@ -1,0 +1,7 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z737324073007109488,O20250042,2025-04-13,UPS,Shipped,2025-04-16,Hassan Johnson,"8576 Stone Fort, Seattle, Washington, 75719, USA"
+1Z260009759384963314,O20250043,2025-04-13,UPS,Shipped,2025-04-15,Isabella Lee,"468 Lopez Vista, Seattle, Washington, 03260, USA"
+1Z895783782699071497,O20250046,2025-04-13,UPS,Shipped,2025-04-15,Kenji Davis,"09814 Kimberly Stravenue, Seattle, Washington, 53542, USA"
+1Z778891448468412780,O20250047,2025-04-13,UPS,Shipped,2025-04-17,Emily Chen,"970 Dana Passage, Seattle, Washington, 19797, USA"
+1Z524784810776985161,O20250048,2025-04-13,UPS,Shipped,2025-04-17,Daniel Lopez,"5601 Davis Courts Suite 785, Seattle, Washington, 80519, USA"
+1Z130815335207909542,O20250049,2025-04-13,UPS,Shipped,2025-04-16,Mateo Khan,"445 Tammy Motorway, Seattle, Washington, 28865, USA"

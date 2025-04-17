@@ -1,0 +1,6 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z873672796850249043,O20250001,2025-04-02,UPS,Shipped,2025-04-04,Sofia Smith,"01100 David Forks Apt. 344, Portland, Oregon, 62830, USA"
+1Z511232084744698315,O20250002,2025-04-02,UPS,Shipped,2025-04-04,Jamal Ali,"4124 Jensen River Suite 551, Seattle, Washington, 54288, USA"
+1Z627229654613650735,O20250003,2025-04-02,UPS,Shipped,2025-04-04,Chloe Smith,"68852 Sean Lakes, San Diego, California, 30922, USA"
+1Z353581706088329302,O20250004,2025-04-02,UPS,Shipped,2025-04-05,Leila Nguyen,"82484 Aaron Stream Apt. 865, Seattle, Washington, 12019, USA"
+1Z498214594517868851,O20250006,2025-04-02,UPS,Shipped,2025-04-05,Leila Moore,"038 Emily Circles, Los Angeles, California, 53658, USA"

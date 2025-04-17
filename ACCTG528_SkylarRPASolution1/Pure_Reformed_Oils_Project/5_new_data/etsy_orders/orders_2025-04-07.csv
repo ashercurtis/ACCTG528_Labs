@@ -1,0 +1,2 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250014,2025-04-07,Raj Wilson,raj.wilson@example.com,"525 Crawford Expressway, Sacramento, California, 21209, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-08
