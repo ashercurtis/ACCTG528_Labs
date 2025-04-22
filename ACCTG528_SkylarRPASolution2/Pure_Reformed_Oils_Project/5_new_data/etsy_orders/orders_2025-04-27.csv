@@ -1,0 +1,11 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250275,2025-04-27,Isabella Anderson,isabella.anderson@example.com,"50629 Trevor Ports Suite 252, San Francisco, California, 35678, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),1,13.75,13.75,Paid,2025-04-28
+O20250276,2025-04-27,Grace Khan,grace.khan@example.com,"595 Meghan Drives Apt. 407, Seattle, Washington, 07963, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),1,12.99,12.99,Paid,2025-04-29
+O20250277,2025-04-27,Noah Moore,noah.moore@example.com,"1414 Franklin Fork Apt. 385, Seattle, Washington, 86266, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-28
+O20250278,2025-04-27,Priya Wilson,priya.wilson@example.com,"103 Steven Spurs Apt. 305, Seattle, Washington, 59746, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),2,14.99,29.98,Paid,2025-04-28
+O20250279,2025-04-27,Noah Moore,noah.moore@example.com,"1414 Franklin Fork Apt. 385, Seattle, Washington, 86266, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-29
+O20250280,2025-04-27,Isabella Anderson,isabella.anderson@example.com,"50629 Trevor Ports Suite 252, San Francisco, California, 35678, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),2,14.99,29.98,Paid,2025-04-28
+O20250281,2025-04-27,Noah Moore,noah.moore@example.com,"1414 Franklin Fork Apt. 385, Seattle, Washington, 86266, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),3,12.99,38.97,Paid,2025-04-29
+O20250282,2025-04-27,Noah Wang,noah.wang@example.com,"52195 Brittany Row, Houston, Texas, 35538, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-29
+O20250283,2025-04-27,Emily Kim,emily.kim@example.com,"866 Tracy Island, Seattle, Washington, 34472, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),2,14.99,29.98,Paid,2025-04-28
+O20250284,2025-04-27,Miguel Wilson,miguel.wilson@example.com,"8091 Jared Gardens Apt. 128, Seattle, Washington, 55178, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),2,14.99,29.98,Paid,2025-04-29

@@ -1,0 +1,2 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z479022152430056042,O20250018,2025-04-09,UPS,Shipped,2025-04-12,Raj Wilson,"525 Crawford Expressway, Sacramento, California, 21209, USA"

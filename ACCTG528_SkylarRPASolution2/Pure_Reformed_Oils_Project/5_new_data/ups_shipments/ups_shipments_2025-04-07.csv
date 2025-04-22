@@ -1,0 +1,5 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z551336440869415460,O20250012,2025-04-07,UPS,Shipped,2025-04-11,Miguel Wilson,"8091 Jared Gardens Apt. 128, Seattle, Washington, 55178, USA"
+1Z472214684468192722,O20250014,2025-04-07,UPS,Shipped,2025-04-09,Jamal Anderson,"49399 Arnold Meadow Apt. 449, Seattle, Washington, 05146, USA"
+1Z323305188780839471,O20250015,2025-04-07,UPS,Shipped,2025-04-10,Leila Young,"913 Nichole Junction Suite 274, Portland, Oregon, 35015, USA"
+1Z148246642949489939,O20250016,2025-04-07,UPS,Shipped,2025-04-10,Mateo Khan,"445 Tammy Motorway, Seattle, Washington, 28865, USA"

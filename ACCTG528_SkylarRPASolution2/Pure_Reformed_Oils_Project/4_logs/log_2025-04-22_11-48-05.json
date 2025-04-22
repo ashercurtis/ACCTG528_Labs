@@ -1,0 +1,9 @@
+[
+{"start_time": "04/22/2025 11:48:05"},
+	{"action":"check for log file"},
+	{"timestamp":"04/22/2025 11:48:05"},
+	{"file":"log_files_processed.csv"},
+	{"exists":"True"},
+	{"rowCount":"0"}
+{"end_time": "04/22/2025 11:48:05"}
+]

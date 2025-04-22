@@ -1,0 +1,3 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z195468397740883483,O20250005,2025-04-03,UPS,Shipped,2025-04-07,Noah Johnson,"584 Christine Crest Apt. 729, Eugene, Oregon, 72667, USA"
+1Z799273682655957138,O20250007,2025-04-03,UPS,Shipped,2025-04-07,Daniel Nguyen,"8345 Ashley Land, Seattle, Washington, 68005, USA"

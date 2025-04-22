@@ -1,0 +1,5 @@
+﻿CustomerID,CustomerName,Email,FirstOrder,LastOrder,Orders
+CUST0001,Sofia Garcia,sofia.garcia@example.com,2025-04-01,2025-04-01,1
+CUST0002,Leila Patel,leila.patel@example.com,2025-04-01,2025-04-01,1
+CUST0003,Isabella Davis,isabella.davis@example.com,2025-04-01,2025-04-01,1
+CUST0004,Isabella Johnson,isabella.johnson@example.com,2025-04-01,2025-04-01,1

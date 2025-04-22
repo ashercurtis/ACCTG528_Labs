@@ -1,0 +1,7 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z588383467914583426,O20250073,2025-04-17,UPS,Shipped,2025-04-19,Miguel Smith,"086 Rebecca Prairie Apt. 065, Seattle, Washington, 02897, USA"
+1Z914595320790972362,O20250074,2025-04-17,UPS,Shipped,2025-04-20,Mateo Kim,"743 Melissa Estates, Seattle, Washington, 99501, USA"
+1Z769714433029458799,O20250075,2025-04-17,UPS,Shipped,2025-04-21,Leila Chen,"93672 Lewis Orchard, Seattle, Washington, 52136, USA"
+1Z181640240920761582,O20250077,2025-04-17,UPS,Shipped,2025-04-20,Leila Ramirez,"31845 Wells Turnpike, Seattle, Washington, 49890, USA"
+1Z973482866076665723,O20250081,2025-04-17,UPS,Shipped,2025-04-20,Sofia Smith,"01100 David Forks Apt. 344, Portland, Oregon, 62830, USA"
+1Z366062458300953400,O20250082,2025-04-17,UPS,Shipped,2025-04-20,Chloe Lopez,"964 Ricky Rest, Seattle, Washington, 93761, USA"
