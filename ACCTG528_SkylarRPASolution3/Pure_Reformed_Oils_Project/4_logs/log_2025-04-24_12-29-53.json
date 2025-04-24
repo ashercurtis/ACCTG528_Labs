@@ -1,0 +1,14 @@
+[
+{"start_time": "04/24/2025 12:29:52"},
+	{"action":"check for log file"},
+	{"timestamp":"04/24/2025 12:29:52"},
+	{"file":"log_files_processed.csv"},
+	{"exists":"True"},
+	{"rowCount":"28"},
+	{"action":"check for log file"},
+	{"timestamp":"04/24/2025 12:29:52"},
+	{"file":"log_files_processed.csv"},
+	{"exists":"True"},
+	{"rowCount":"28"}
+{"end_time": "04/24/2025 12:29:53"}
+]

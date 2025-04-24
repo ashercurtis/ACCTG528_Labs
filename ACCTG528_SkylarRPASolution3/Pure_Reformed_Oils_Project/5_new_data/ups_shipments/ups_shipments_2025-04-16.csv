@@ -1,0 +1,12 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z343666262565438671,O20250041,2025-04-16,UPS,Shipped,2025-04-20,Tariq Lee,"71389 Taylor Island Apt. 787, Seattle, Washington, 55947, USA"
+1Z804558240208893403,O20250050,2025-04-16,UPS,Shipped,2025-04-18,Chloe Moore,"304 Fritz Isle Suite 049, Seattle, Washington, 78261, USA"
+1Z489321786472328641,O20250068,2025-04-16,UPS,Shipped,2025-04-20,Aisha Ramirez,"18236 Marsh Unions Apt. 058, Seattle, Washington, 48757, USA"
+1Z321363820174588909,O20250069,2025-04-16,UPS,Shipped,2025-04-18,Grace Martinez,"39636 Jackson Shore, Eugene, Oregon, 44188, USA"
+1Z903240607507544227,O20250070,2025-04-16,UPS,Shipped,2025-04-19,Jamal Ali,"4124 Jensen River Suite 551, Seattle, Washington, 54288, USA"
+1Z145211396026296350,O20250072,2025-04-16,UPS,Shipped,2025-04-19,Daniel Lopez,"939 Matthew Dale, Seattle, Washington, 58731, USA"
+1Z550723596698463217,O20250076,2025-04-16,UPS,Shipped,2025-04-19,Leila Brown,"70954 Williams Skyway Apt. 446, Seattle, Washington, 85350, USA"
+1Z419924660905264762,O20250079,2025-04-16,UPS,Shipped,2025-04-18,Miguel Ali,"089 Mcdaniel Ford Apt. 332, Seattle, Washington, 29455, USA"
+1Z905976420070367601,O20250080,2025-04-16,UPS,Shipped,2025-04-18,Kenji Wilson,"5035 Pratt Forest Apt. 615, Seattle, Washington, 20039, USA"
+1Z529535330863024820,O20250083,2025-04-16,UPS,Shipped,2025-04-19,Sofia Smith,"01100 David Forks Apt. 344, Portland, Oregon, 62830, USA"
+1Z310749755786242530,O20250084,2025-04-16,UPS,Shipped,2025-04-19,Hassan Martinez,"39060 Dana Divide, Seattle, Washington, 19752, USA"

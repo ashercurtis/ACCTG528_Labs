@@ -1,0 +1,13 @@
+order_id,order_date,buyer_name,buyer_email,shipping_address,product_id,SKU,product_name,quantity,unit_price,total_price,payment_status,expected_ship_date
+O20250060,2025-04-13,Hassan Kim,hassan.kim@example.com,"263 Richard Fields Suite 871, Seattle, Washington, 65184, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),1,11.49,11.49,Paid,2025-04-15
+O20250061,2025-04-13,Linh Ramirez,linh.ramirez@example.com,"9678 Laura Hill Apt. 540, Seattle, Washington, 79829, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),2,12.25,24.5,Paid,2025-04-15
+O20250062,2025-04-13,Leila Moore,leila.moore@example.com,"038 Emily Circles, Los Angeles, California, 53658, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),2,12.99,25.98,Paid,2025-04-14
+O20250063,2025-04-13,Daniel Nguyen,daniel.nguyen@example.com,"8345 Ashley Land, Seattle, Washington, 68005, USA",P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),2,11.49,22.98,Paid,2025-04-14
+O20250064,2025-04-13,Daniel Lopez,daniel.lopez@example.com,"939 Matthew Dale, Seattle, Washington, 58731, USA",P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),3,10.99,32.97,Paid,2025-04-15
+O20250065,2025-04-13,Miguel Smith,miguel.smith@example.com,"086 Rebecca Prairie Apt. 065, Seattle, Washington, 02897, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),3,12.25,36.75,Paid,2025-04-14
+O20250066,2025-04-13,Mateo Wang,mateo.wang@example.com,"199 Todd Fork, Eugene, Oregon, 77647, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),1,12.25,12.25,Paid,2025-04-15
+O20250067,2025-04-13,Mei Patel,mei.patel@example.com,"2375 James Crescent, Seattle, Washington, 67843, USA",P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),1,12.99,12.99,Paid,2025-04-15
+O20250068,2025-04-13,Chloe Smith,chloe.smith@example.com,"68852 Sean Lakes, San Diego, California, 30922, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-15
+O20250069,2025-04-13,Isabella Anderson,isabella.anderson@example.com,"50629 Trevor Ports Suite 252, San Francisco, California, 35678, USA",P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),1,14.99,14.99,Paid,2025-04-15
+O20250070,2025-04-13,Miguel Ali,miguel.ali@example.com,"089 Mcdaniel Ford Apt. 332, Seattle, Washington, 29455, USA",P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),1,12.25,12.25,Paid,2025-04-15
+O20250071,2025-04-13,Isabella Anderson,isabella.anderson@example.com,"50629 Trevor Ports Suite 252, San Francisco, California, 35678, USA",P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),3,13.75,41.25,Paid,2025-04-15

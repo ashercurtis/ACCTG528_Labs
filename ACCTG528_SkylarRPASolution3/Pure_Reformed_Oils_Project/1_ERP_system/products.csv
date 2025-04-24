@@ -1,0 +1,7 @@
+ProductID,SKU,ProductName,unitPrice,stockQuantity
+P001,PURE-LEMONGRASS-10ML,Lemongrass Essential Oil (10ml),12.99,150
+P002,PURE-LAVENDER-15ML,Lavender Essential Oil (15ml),14.99,120
+P003,PURE-EUCALYPTUS-10ML,Eucalyptus Essential Oil (10ml),11.49,100
+P004,PURE-PEPPERMINT-15ML,Peppermint Essential Oil (15ml),13.75,130
+P005,PURE-CEDARWOOD-10ML,Cedarwood Essential Oil (10ml),10.99,90
+P006,PURE-ROSEMARY-10ML,Rosemary Essential Oil (10ml),12.25,75

@@ -1,0 +1,13 @@
+tracking_number,order_id,ship_date,carrier,shipping_status,estimated_delivery_date,recipient,shipping_address
+1Z329582799654459555,O20250026,2025-04-14,UPS,Shipped,2025-04-18,Jamal Ali,"4124 Jensen River Suite 551, Seattle, Washington, 54288, USA"
+1Z892509297812395709,O20250051,2025-04-14,UPS,Shipped,2025-04-16,Tariq Wang,"542 Figueroa Drive, Seattle, Washington, 63939, USA"
+1Z416240692923288871,O20250052,2025-04-14,UPS,Shipped,2025-04-16,Aisha Ramirez,"952 Harmon Cape, Seattle, Washington, 36287, USA"
+1Z551863689388722328,O20250053,2025-04-14,UPS,Shipped,2025-04-16,Kenji Wilson,"5035 Pratt Forest Apt. 615, Seattle, Washington, 20039, USA"
+1Z493612060299185539,O20250054,2025-04-14,UPS,Shipped,2025-04-16,Isabella Johnson,"6101 Tina Courts, Seattle, Washington, 59051, USA"
+1Z130267984314592427,O20250056,2025-04-14,UPS,Shipped,2025-04-18,Raj Garcia,"457 Burke Pine, Seattle, Washington, 06288, USA"
+1Z572564939056612763,O20250058,2025-04-14,UPS,Shipped,2025-04-17,Noah Johnson,"584 Christine Crest Apt. 729, Eugene, Oregon, 72667, USA"
+1Z623826779467792945,O20250059,2025-04-14,UPS,Shipped,2025-04-18,Leila Brown,"70954 Williams Skyway Apt. 446, Seattle, Washington, 85350, USA"
+1Z137999152138620633,O20250062,2025-04-14,UPS,Shipped,2025-04-18,Noah Anderson,"08810 Edwards Fall, Seattle, Washington, 97313, USA"
+1Z656871231616410785,O20250063,2025-04-14,UPS,Shipped,2025-04-17,Kenji Kim,"7925 Schmidt Union Suite 619, Seattle, Washington, 68084, USA"
+1Z475766142339225947,O20250066,2025-04-14,UPS,Shipped,2025-04-16,Noah Moore,"1414 Franklin Fork Apt. 385, Seattle, Washington, 86266, USA"
+1Z131684000928014650,O20250067,2025-04-14,UPS,Shipped,2025-04-18,Tariq Ali,"9920 Jeanne Views Suite 821, Seattle, Washington, 83206, USA"
