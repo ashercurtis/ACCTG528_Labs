@@ -1,3 +1,7 @@
 *.xaml merge=ours
 /legacy_cases/ merge=ours
 /solutions/ merge=theirs
+/ACCTG528_SkylarRPASolution1/ merge=theirs
+/ACCTG528_SkylarRPASolution1 copy/ merge=theirs
+/ACCTG528_SkylarRPASolution2/ merge=theirs
+/ACCTG528_SkylarRPASolution3/ merge=theirs
